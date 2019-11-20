@@ -1,2 +1,4 @@
 # K-Means & Gaussian-Mixture-Modeling
-Python Notebook showing EM-algorithm in action for K-means & Gaussian Mixture Models
+Jupyter Notebook showing 
+1) Co-Variance Explanation
+2) EM-algorithm in action for K-means & Gaussian Mixture Models
